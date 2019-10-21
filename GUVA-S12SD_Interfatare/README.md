@@ -8,31 +8,11 @@
 
 <br>
 <div align="center" style="color: black; font-family: times new roman, serif; font-size: 11pt; line-height: 24px; margin-bottom: 0px;">
-<b>Fig. 2. </b>Circuitul de interfațare a modulului CJMCU GUVA-S12SD cu Arduino UNO R3
+Circuitul de interfațare a modulului CJMCU GUVA-S12SD cu Arduino UNO R3
 </div>
 <br>
 
-<style>
-table {
-   width: 50%;
-font-family: times new roman, serif;
-font-size: 12pt;
-}
 
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-
-th {
-  background-color: #f1f1c1;
-}
-
-th, td {
-  padding: 5px;
-  text-align: center;
-}
-</style>
 
 <div align="center">
 <table>
