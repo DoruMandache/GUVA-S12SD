@@ -4,7 +4,7 @@
 </div>
 <br>
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://2.bp.blogspot.com/-GwwZ1UH6uVc/XahOBjdKyzI/AAAAAAAAESY/qEVB0k91x5MqsiWZjnc4zVnobvjl8sEmQCPcBGAYYCw/s1600/Arduino%2BUNO%2Bsi%2BCJMCU%2BGUVA-S12SD.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://2.bp.blogspot.com/-GwwZ1UH6uVc/XahOBjdKyzI/AAAAAAAAESY/qEVB0k91x5MqsiWZjnc4zVnobvjl8sEmQCPcBGAYYCw/s400/Arduino%2BUNO%2Bsi%2BCJMCU%2BGUVA-S12SD.jpg" width="450" height="443" data-original-width="879" data-original-height="864" /></a></div>
+<div align="center"><a href="https://2.bp.blogspot.com/-GwwZ1UH6uVc/XahOBjdKyzI/AAAAAAAAESY/qEVB0k91x5MqsiWZjnc4zVnobvjl8sEmQCPcBGAYYCw/s1600/Arduino%2BUNO%2Bsi%2BCJMCU%2BGUVA-S12SD.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://2.bp.blogspot.com/-GwwZ1UH6uVc/XahOBjdKyzI/AAAAAAAAESY/qEVB0k91x5MqsiWZjnc4zVnobvjl8sEmQCPcBGAYYCw/s400/Arduino%2BUNO%2Bsi%2BCJMCU%2BGUVA-S12SD.jpg" width="450" height="443" data-original-width="879" data-original-height="864" /></a></div>
 
 <br>
 <div align="center" style="color: black; font-family: times new roman, serif; font-size: 11pt; line-height: 24px; margin-bottom: 0px;">
