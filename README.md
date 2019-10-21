@@ -1,1 +1,1 @@
-# GUVA-S12SD
+# GUVA-S12SD - Senzor de radiatii ultraviolete
